@@ -28,8 +28,14 @@ Academic Integrity Statement:
 
 
 def main():
-    # TODO: Write code
+    # Input
+    # TODO: Take each input and cast to appropriate type
+    # Algorithm
+    # TODO: Calculate the values
+    # Output
+    # TODO: Format data to match the sample
     exit(1)
+
 
 if __name__ == '__main__':
     main()
