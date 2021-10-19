@@ -1,6 +1,6 @@
 """
 Author: Jacob Dachenhaus, jdachenh@purdue.edu
-Assignment: m.n - Assignment Name
+Assignment: 0x.x - Assignment Name
 Date: MM/DD/YYYY
 
 Description:
@@ -28,12 +28,7 @@ Academic Integrity Statement:
 
 
 def main():
-    # Input
-    # TODO: Take each input and cast to appropriate type
-    # Algorithm
-    # TODO: Calculate the values
-    # Output
-    # TODO: Format data to match the sample
+    # TODO: Write code
     exit(1)
 
 
