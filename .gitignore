@@ -1,4 +1,7 @@
 test.py
 
+# Python
+__pycache__
+
 # Copyright materials
 *.pdf
