@@ -8,7 +8,7 @@ Purdue EBEC 101 coursework and files
 - [x] Exercises 4.1 - 4.5
 - [x] Exercises 5.1 - 5.4
 - [x] Exercises 6.1 - 6.4
-- [ ] Exercises 7.1 - 7.4
+- [x] Exercises 7.1 - 7.4
 - [ ] Exercises 8.1 - 8.6
 - [ ] Exercises 9.1 - 9.4
 - [ ] Exercise 10.4
