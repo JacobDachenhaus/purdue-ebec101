@@ -28,8 +28,8 @@ Academic Integrity Statement:
 
 
 def main():
-    # TODO: Write code
-    exit(1)
+    return
+    #END main def
 
 
 if __name__ == '__main__':
