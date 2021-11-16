@@ -1,7 +1,8 @@
 # EBEC 101
 Purdue EBEC 101 coursework and files
 
-## Course Progress
+![58%](https://progress-bar.dev/58)
+
 - [x] Exercises 1.1 - 1.3
 - [x] Exercises 2.1 - 2.5
 - [ ] Exercises 3.1 - 3.4
